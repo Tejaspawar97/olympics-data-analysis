@@ -4,7 +4,7 @@ Throughout this project, I explored the Olympics dataset(scraped from https://en
 
 The dataset has details of 146 countries with the following 16 features
 
-After completing this project, I had a better understanding of data handling with python(pandas). In this project, I applyed the following concepts :
+After completing this project, I had a better understanding of data handling with python(pandas). In this project, I applied the following concepts :
 
 1. Dataframe operations
 
